@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="144a1f4b-a953-4f04-bd52-68d654e04851" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controler/IControleurFonctionnaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Diplome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/IModelFonctionaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ISujetModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ModelFonctionaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vue/IObservateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vue/IVueFonctioannaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vue/VueFonctionnaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vue/VueFonctionnaireDiplome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vue/VueInfoFonctionnaire.java" afterDir="false" />
+    <list default="true" id="144a1f4b-a953-4f04-bd52-68d654e04851" name="Changes" comment="first project structure">
+      <change beforePath="$PROJECT_DIR$/src/controler/IControleurFonctionnaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controler/IControleurFonctionnaire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1733872402649</updated>
     </task>
+    <task id="LOCAL-00001" summary="first project structure">
+      <created>1733875239364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733875239364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="first project structure" />
   </component>
 </project>
